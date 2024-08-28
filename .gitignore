@@ -1,0 +1,50 @@
+```plaintext
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambientes virtuais
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Configurações de IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+Cálculo da Área de um Círculo
+
+Descrição: Desenvolva um programa em Python que solicita ao usuário o raio de um círculo e calcula a área utilizando a fórmula 
+𝜋
+×
+raio
+2
+π×raio 
+2
+ . O valor de π é definido como 3.14159. O programa deve exibir a área do círculo com duas casas decimais.
+
+Funcionalidades obrigatórias:
+
+1. Leitura do raio do círculo fornecido pelo usuário.
+2. Cálculo da área do círculo utilizando a fórmula 
+𝜋
+×
+raio
+2
+π×raio 
+2
+ .
+3. Exibição da área calculada com duas casas decimais.
+Tecnologias: Python 3.x
+
+Licença: MIT License
